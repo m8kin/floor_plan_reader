@@ -1,0 +1,3 @@
+'images/fp1.jpg'
+'images/fp2.jpg'
+'images/fp3.jpg'
